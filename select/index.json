@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Lovestruck",
+  "base_artist": "春野",
+  "createdAt": "2026-02-11T13:23:25.599004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Night Club",
+      "has_synced": true,
+      "path": "select/01_Lovestruck_Night_Club.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/02_Lovestruck_Madness.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "The Vamps",
+      "has_synced": true,
+      "path": "select/03_Lovestruck_The_Vamps.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Shakin' Stevens",
+      "has_synced": false,
+      "path": "select/04_Lovestruck_Shakin'_Stevens.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LoveStruck",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/05_LoveStruck_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Breathe Electric",
+      "has_synced": true,
+      "path": "select/06_Lovestruck_Breathe_Electric.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Vertical Horizon",
+      "has_synced": false,
+      "path": "select/07_Lovestruck_Vertical_Horizon.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovestruck (feat. Shion Lee)",
+      "artist": "Lone Alpha",
+      "has_synced": false,
+      "path": "select/08_Lovestruck_(feat._Shion_Lee)_Lone_Alpha.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Lone Alpha/Shion Lee",
+      "has_synced": false,
+      "path": "select/09_Lovestruck_Lone_Alpha_Shion_Lee.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovestruck - Original Mix",
+      "artist": "Borgeous & Mike Hawkins",
+      "has_synced": true,
+      "path": "select/10_Lovestruck_-_Original_Mix_Borgeous_&_Mike_Hawkins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovestruck(Original Mix)",
+      "artist": "Borgeous/Mike Hawkins",
+      "has_synced": true,
+      "path": "select/11_Lovestruck(Original_Mix)_Borgeous_Mike_Hawkins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Young and Lovestruck",
+      "artist": "Get Cape. Wear Cape. Fly",
+      "has_synced": true,
+      "path": "select/12_Young_and_Lovestruck_Get_Cape._Wear_Cape._Fly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lovestruck",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/13_Lovestruck_Roy_Orbison.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovestruck",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Lovestruck_春野.txt"
+    }
+  ]
+}
